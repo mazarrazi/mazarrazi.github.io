@@ -3,7 +3,8 @@
 #### Technical Skills: C, Python, SQL, POWER BI, PyTorch, Tensorflow. 
 
 ## Education
-B.E. ECE
+ - B.E. ECE
+
 
 ## Work Experience
 **Data Analytics Intern @ Senchola (_Dec 2023 - March 2024_)**
@@ -18,7 +19,9 @@ B.E. ECE
 
 ## Projects 
 ### An Efficient Spectrum Accessing Technique In Cognitive Network Using Deep Learning Algorithm
+
 [Publication](https://ijireeice.com/papers/an-efficient-spectrum-accessing-technique-in-cognitive-network-using-deep-learning-algorithm/)
+
 Enhancements for spectrum sharing to facilitate uninterrupted secondary user transmission across the white band. Proposed and implemented a collaborative detection method, leveraging the power of Artificial Neural Network (ANN) and Feed Forward Neural Network (FFNN) to optimize spectrum sensing efficiency. Showed good performance, especially at low Signal-to-Noise Ratio (SNR), resulting in minimized delays and significantly improved throughput 
 
 
@@ -35,6 +38,3 @@ Enhancements for spectrum sharing to facilitate uninterrupted secondary user tra
   - Control of Robotic Arm using Inverse Kinematics @Shaastra2021, IIT Madras (Mar 2021)
   - Sixth Sense Robotics @PrismCode Info Solutions (Feb 2020)
   - Antenna Design & Simulation at Pantech ProEd (Feb 2020)
-
-
-- [GitHub](https://github.com/mazarrazi)
