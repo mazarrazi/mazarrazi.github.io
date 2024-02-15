@@ -1,10 +1,9 @@
 title: SIVA GANESH
 theme: jekyll-theme-minimal
-
 logo: /assets/img/p1.png
 
 # remote_theme: chrisrhymes/bulma-clean-theme
-google_analytics: G-S191BDS1TY
+#google_analytics: G-S191BDS1TY
 # theme_color: '#9d7d2a'
 # show_sidebar: true  # by default shows latest posts
 # _includes/latest-posts.html  # to show different content instead of latest posts
