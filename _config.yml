@@ -1,12 +1,12 @@
-title: Siva Ganesh
-remote_theme: chrisrhymes/bulma-clean-theme
+title: SIVA GANESH
+theme: jekyll-theme-minimal
+
+# logo: /assets/img/pic.png
+
+# remote_theme: chrisrhymes/bulma-clean-theme
 google_analytics: G-S191BDS1TY
 theme_color: '#9d7d2a'
-
 show_sidebar: true  # by default shows latest posts
 # _includes/latest-posts.html  # to show different content instead of latest posts
-
-fixed_navbar: top
-fixed_navbar: bottom
 
 # theme: just-the-docs
