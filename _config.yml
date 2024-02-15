@@ -1,6 +1,8 @@
 title: SIVA GANESH
-theme: jekyll-theme-minimal
 logo: /assets/img/p1.png
+show_downloads: true
+descroption: H
+theme: jekyll-theme-minimal
 
 # remote_theme: chrisrhymes/bulma-clean-theme
 #google_analytics: G-S191BDS1TY
