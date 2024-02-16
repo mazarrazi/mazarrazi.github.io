@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: C, Python, SQL, POWER BI, PyTorch, Tensorflow. 
+#### Technical Skills: C, Python, SQL, Power BI, PyTorch, Tensorflow. 
 
 ## Education
  - B.E. ECE
